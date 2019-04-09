@@ -1,0 +1,5 @@
+1. Using NetworkX to Simulate Metapop in python (http://timotheepoisot.fr/2012/05/18/networkx-metapopulations-python/)
+2. https://pdfs.semanticscholar.org/d18a/5ff14c2bef9731b4907f856a850ede363205.pdf
+3. http://www.netmob.org/www15/assets/img/nicola_slides.pdf
+4. https://spyhce.com/blog/python-networkx-library
+5. https://www.epicx-lab.com/uploads/9/6/9/4/9694133/jtb-metapop.pdf
